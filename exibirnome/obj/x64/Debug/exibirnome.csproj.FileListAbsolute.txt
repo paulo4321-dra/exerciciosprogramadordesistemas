@@ -1,0 +1,10 @@
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\bin\x64\Debug\exibirnome.exe.config
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\bin\x64\Debug\exibirnome.exe
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\bin\x64\Debug\exibirnome.pdb
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.csproj.AssemblyReference.cache
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.frmExibirNome.resources
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.Properties.Resources.resources
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.csproj.GenerateResource.cache
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.csproj.CoreCompileInputs.cache
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.exe
+C:\Users\paulo.franca\source\programadordesistemas\exibirnome\obj\x64\Debug\exibirnome.pdb

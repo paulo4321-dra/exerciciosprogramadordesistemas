@@ -1,0 +1,10 @@
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe.config
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.pdb
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.frmMaiorouMenorqueDez.resources
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.exe
+C:\Users\paulo.franca\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.pdb
